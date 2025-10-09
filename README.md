@@ -1,6 +1,6 @@
 # 🧠 VAE-Face-Generation (CelebA)
 
- ![](https://lilianweng.github.io/posts/2018-08-12-vae/vae-gaussian.png) 
+ ![](https://lilianweng.github.io/posts/2018-08-12-vae/autoencoder-architecture.png) 
 
 
 This project is my implementation of a **Variational Autoencoder (VAE)** for **face generation** trained on the **CelebA dataset**.  
