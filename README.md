@@ -154,6 +154,3 @@ Here is regenration of same image from latent space of dimension 200 features
 - PyTorch Documentation — [https://pytorch.org](https://pytorch.org)
 
 ---
-
-## 🪪 License
-MIT License — freely available for research and educational use.
