@@ -147,28 +147,11 @@ Here is regenration of same image from latent space of dimension 200 features
  ![](https://raw.githubusercontent.com/0xprv/VAE-Face-Generation/refs/heads/main/result.png) 
 ---
 
-## 🔄 Latent Space Interpolation
-
-One of the most fascinating aspects of this model is latent space interpolation.  
-By linearly interpolating between two latent vectors, I was able to smoothly transition from one face to another, watching gradual morphs in facial features, pose, and expressions.
-
-This demonstrates that the VAE learned a **continuous and meaningful latent manifold** of human faces.
-
----
-
 ## 📖 References
 
 - Kingma, D.P. & Welling, M. (2013). *Auto-Encoding Variational Bayes*  
 - Liu et al. (2015). *Deep Learning Face Attributes in the Wild (CelebA)*  
 - PyTorch Documentation — [https://pytorch.org](https://pytorch.org)
-
----
-
-## 👤 Author
-
-**Reliable Information**  
-I developed this VAE model to explore deep generative learning and understand the mathematical and architectural principles behind probabilistic image generation.  
-This project was built from scratch to stay true to the fundamentals — no shortcuts, no pre-trained models, just honest experimentation and results.
 
 ---
 
