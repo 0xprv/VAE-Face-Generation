@@ -1,5 +1,8 @@
 # 🧠 VAE-Face-Generation (CelebA)
 
+ ![](https://lilianweng.github.io/posts/2018-08-12-vae/vae-gaussian.png) 
+
+
 This project is my implementation of a **Variational Autoencoder (VAE)** for **face generation** trained on the **CelebA dataset**.  
 I built and trained this model to explore how deep generative models can learn the underlying structure of human faces and reproduce realistic-looking samples from a latent distribution.
 
