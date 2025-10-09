@@ -142,8 +142,9 @@ After training, the model could:
 - Generate new faces by sampling random latent vectors.
 - Perform smooth **latent space interpolation**, morphing one face into another naturally.
 
-Reconstructed and generated samples showed consistent structure — eyes, mouth, and overall face geometry — although finer details (like textures and lighting) were sometimes slightly blurred, which is expected from standard VAEs.
+Here is regenration of same image from latent space of dimension 200 features
 
+ ![](https://raw.githubusercontent.com/0xprv/VAE-Face-Generation/refs/heads/main/result.png) 
 ---
 
 ## 🔄 Latent Space Interpolation
